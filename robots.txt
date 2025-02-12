@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://duzude.csgad.com/pvR/sitemap.xml.gz
